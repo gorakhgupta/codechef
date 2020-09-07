@@ -1,3 +1,5 @@
+//Gorakh kumar gupta IIIT Ranchi
+
 #include<iostream>
 #include<math.h>
 using namespace std;
