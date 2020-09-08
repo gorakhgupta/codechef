@@ -1,46 +1,4 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@gorakhgupta 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-Prince-1501
-/
-Hello_world-Competiitve-Programming
-2
-1419
-Code
-Issues
-Pull requests
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-Hello_world-Competiitve-Programming/53_codeforces_MUH_and_sticks.cpp
-@Prince-1501
-Prince-1501 Create 53_codeforces_MUH_and_sticks.cpp
-Latest commit d829b59 on Sep 7, 2019
- History
- 1 contributor
-80 lines (69 sloc)  1.6 KB
-  
-//
-//  main.cpp
-//  code
-//
-//  Created by Prince  Kumar on 07/09/19.
-//  Copyright © 2019 Prince  Kumar. All rights reserved.
-//
-//  codeforces --> MUH and Sticks
+//Gorakh
 
 #include <iostream>
 using namespace std;
@@ -113,15 +71,4 @@ int main()
     else
         cout<<"Alien"<<endl;
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
